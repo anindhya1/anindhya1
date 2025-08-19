@@ -7,7 +7,6 @@ I’m a **graduate student at RIT**, building tools that combine **AI and HCI/UX
 ## Current Projects
 - **Personal Knowledge Management Tool** – a personal knowledge management tool that extracts insights from articles, transcripts, and documents using **KeyBERT, REBEL, and semantic embeddings**.  
 - Exploring **multi-agent systems** for problem-solving in dynamic environments.  
-- Designing sleek frontends with **Streamlit** and **Apple-style minimal UI principles**.  
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
