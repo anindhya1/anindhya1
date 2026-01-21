@@ -1,6 +1,6 @@
 # Hey, I’m Anindhya  
 
-I’m a **graduate student at RIT**, building tools that combine **AI and HCI/UX** to make sense of complex information.
+I’m a recent **RIT graduate**, building tools that combine **AI and HCI/UX** to make sense of complex information.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
