@@ -29,4 +29,4 @@ I’m a recent **CS graduate**, building tools that combine **AI and HCI/UX** to
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Always open to collaboration on **AI-driven tools and UX-focused projects**.  
+Always open to collaborating on **AI-driven tools and UX-focused projects**.  
