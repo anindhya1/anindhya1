@@ -11,8 +11,8 @@ I’m a recent **CS graduate**, building tools that combine **AI and HCI/UX** to
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Tech Stack
-- **Languages**: Python, JavaScript, SQL, Java, Processing, HTML, CSS  
-- **Frameworks & Tools**: LangGraph, Crew AI, OpenAI SDKs, Ollama (local LLMs), FastAPI, Streamlit, Flask 
+- **Languages**: Python, JavaScript, TypeScript, SQL, Java, Processing, HTML, CSS 
+- **Frameworks & Tools**: React, LangGraph, Crew AI, OpenAI SDKs, Ollama (local LLMs), FastAPI, Streamlit, Flask
 - **ML/NLP**: PyTorch, HuggingFace Transformers, spaCy, SentenceTransformers, REBEL, KeyBERT  
 - **Visualization**: PyVis, Three.js, Matplotlib
 - **Other**: Git, Docker, LaTeX, LangSmith  
